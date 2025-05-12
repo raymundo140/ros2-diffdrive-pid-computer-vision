@@ -1,6 +1,6 @@
 # ROS 2 Differential-Drive Robot with PID Control and Traffic Light Detection
 
-This project implements a ROS 2-based control system for a differential-drive robot that navigates a predefined path while responding to traffic light signals detected through computer vision.
+This project implements a ROS 2-based PID control system for a differential-drive robot that navigates a predefined path while responding to traffic light signals detected through computer vision.
 
 ## 🧠 Project Overview
 
