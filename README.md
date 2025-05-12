@@ -5,7 +5,7 @@ This project implements a ROS 2-based PID control system for a differential-driv
 ## 🧠 Project Overview
 
 - **Platform:** ROS 2 Humble on Ubuntu 22.04
-- **Hardware:** Jetson Nano, Raspberry Pi Camera, wheel encoders
+- **Hardware:** Jetson Nano, Raspberry Pi Camera, motors with encoders
 - **Key Features:**
   - Real-time traffic light detection using OpenCV (HSV masks)
   - Closed-loop control using PID for position and orientation
